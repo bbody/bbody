@@ -1,5 +1,7 @@
-<ol class="d-flex flex-wrap list-style-none gutter-condensed mb-2 js-pinned-items-reorder-list">
-  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
-     Hello
-  </li>
-</ol>
+
+| Blog Posts |
+| ---------- |
+| [ASDF](https://brendonbody.blog/2023/01/26/asdf/) |
+| [Books I plan to read in 2023](https://brendonbody.blog/2023/01/11/books-i-plan-to-read-in-2023/) |
+| [Copilot](https://brendonbody.blog/2022/12/31/copilot/) |
+| [Setting developer up for failure](https://brendonbody.blog/2022/12/20/setting-developers-up-for-failure/) |
